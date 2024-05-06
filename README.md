@@ -9,14 +9,6 @@ inside the PDF file. Make sure you **add the PDF file in the correct path**, oth
 _Happy coding :p_
 
 
-
-
-## 🚀 About Me
-Just a guy learning how to code :)) 
-
-Frontend apprentice 👨🏽‍💻 
-
-Fullstack developer on the making 🔜
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
